@@ -9,3 +9,4 @@ tmp
 compiled
 data
 mongod
+.ruby-version
