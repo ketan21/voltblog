@@ -11,7 +11,7 @@ Simple blog
 
 To run blog
 
-  - git clone https://github.com/kodi0/voltblog.git
+  - git clone https://github.com/ketan21/voltblog.git
   - cd voltblog
   - bundle install
   - volt s
